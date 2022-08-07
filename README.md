@@ -7,6 +7,3 @@ During this course I learned how to organize my blueprints, get rid of my spaghe
 - Organizing and cleaning code.
 - File structure.
 - Creating and applying materials.
-
-## Preview
-![Screenshot 1](./Assets/SS1.png)
